@@ -10,6 +10,6 @@ A quick set of scripts that you can map to "keyboard shortcuts" so you can easil
 1. Go to File>Scripts>Rescan Scripts Folder
 1. Go to File>Scripts>aseprite_colour_steppers>hsl_config_dialog (optional if you want to tweak the steps, default values are 10%, you may need to allow write access for the config file), set your steps from 0 to 100
 1. Go to Edit>Keyboard Shortcuts
-    - search for mappable_colour_scripts (or by the script's name)
-    - assign a key to each step option (ex. map decrease_hue to SHIFT+1)...
+    - search for colour_stepper_scripts (or by the script's name)
+    - assign a key to each step option (ex. map decrease_hue to CTRL+SHIFT+Q)...
 1. Use your newly assigned keyboard shortcuts in Aseprite
